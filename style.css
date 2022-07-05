@@ -97,7 +97,18 @@ button {
 .infomation_box_two,
 .infomation_box_three,
 .infomation_box_four {
+    display: flex;
+    flex-wrap: wrap;
     width: 140px;
     text-align: center;
     color: #424242;
+    justify-content: center;
+    gap: 8px;
+    
+}
+
+.img_box {
+    border: 3px solid #3882f6;
+    border-radius: 8px;
+    padding: 60px;
 }
