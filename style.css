@@ -11,7 +11,7 @@ body {
 
 }
 
-.header_list{
+ul {
     display: flex;
     flex-direction: row;
 }
