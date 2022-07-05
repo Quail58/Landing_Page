@@ -136,3 +136,33 @@ button {
     color: #1F2937;
     padding-left: 500px;
 }
+
+.CTA {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    color: white;
+}
+
+.CTA_box {
+    display: flex;
+    background-color: #3882F6;
+    padding: 30px 200px;
+    border-radius: 16px;
+    gap: 30px;
+}
+
+.CTA_button_color {
+    background-color: #3882f6;
+    color: white;
+    border: solid;
+    margin-top: 6px;
+    padding: 8px 16px;
+    border-radius: 8px;
+}
+
+.CTA_title {
+    font-weight: bold;
+    font-size: 20px;
+}
