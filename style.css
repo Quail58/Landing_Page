@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header{
+    display: flex;
+}
+
+.header_logo{
+
+}
+
+.header_list{
+    display: flex;
+    flex-direction: row;
+}
