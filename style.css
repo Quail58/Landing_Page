@@ -14,4 +14,9 @@ body {
 ul {
     display: flex;
     flex-direction: row;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
 }
