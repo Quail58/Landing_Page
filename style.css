@@ -30,3 +30,29 @@ a{
     text-decoration: none;
     color: #E5E7EB;
 }
+
+.header_content{
+    display: flex;
+    background-color: #1F2937;
+}
+
+.awesome_box{
+    display: flex;
+    flex-direction: column;
+}
+
+.awesome_title {
+    font-size: 48px;
+    color: #F9FAF8;
+}
+
+.awesome_content {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+button {
+    background-color: #3882f6;
+    color: white;
+    border: none;
+}
