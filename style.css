@@ -73,3 +73,31 @@ button {
     padding: 8px 16px;
     border-radius: 8px;
 }
+
+.information {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 32px;
+}
+
+.information_header{
+    color: #1F2937;
+    font-weight: bolder;
+    font-size: 36px;
+    margin: 36px;
+}
+
+.information_images {
+    display: flex;
+    gap: 64px;  
+}
+
+.infomation_box_one, 
+.infomation_box_two,
+.infomation_box_three,
+.infomation_box_four {
+    width: 140px;
+    text-align: center;
+    color: #424242;
+}
